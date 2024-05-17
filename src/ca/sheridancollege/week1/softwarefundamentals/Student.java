@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  */
+
 public class Student 
 {
     private String name;
@@ -25,6 +26,9 @@ public class Student
      * phle commit kro.->local pe aega
      * phir push kro to see on github.
      * 
+
+
+     AB GITHUB PE CHANGE KEYA HA DEKHTE HAI NEAT BEANS MEIN
      */
     public String getName() {
         return name;
