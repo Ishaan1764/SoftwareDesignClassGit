@@ -20,6 +20,11 @@ public class Student
      * @return the name
      * @ishu ne git ke leye modify keya
      * chl gui ke sath delkhte hai 
+     * 
+     * yeh netBeans mei change ha aur humchahte hn github pe bhi ho
+     * phle commit kro.->local pe aega
+     * phir push kro to see on github.
+     * 
      */
     public String getName() {
         return name;
